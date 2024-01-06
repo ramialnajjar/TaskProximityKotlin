@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481132321878",
+    "project_id": "taskproximity-45100",
+    "storage_bucket": "taskproximity-45100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481132321878:android:666206c403976bdf7feff7",
+        "android_client_info": {
+          "package_name": "com.example.taskproximity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpv-BiYKhja-L4rH4J_iTbPDwkRlnBBAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
